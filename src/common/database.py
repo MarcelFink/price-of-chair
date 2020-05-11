@@ -5,7 +5,7 @@ __author__ = 'jslvtr'
 
 
 class Database(object):
-    URI = os.environ.get("MONGOLAB_URI")
+    URI = "mongodb://MarcelFink:Waage1995@ds057806.mlab.com:57806/heroku_2s6hgr4f"
     DATABASE = None
 
     @staticmethod
