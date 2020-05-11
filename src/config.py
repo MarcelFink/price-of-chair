@@ -1,2 +1,2 @@
 DEBUG = True
-ADMIN = "marcel-fink@live.de"
+ADMINS = "marcel-fink@live.de"
